@@ -5,7 +5,7 @@
 ### About me
 - IT student in Budapest, Hungary.
 - Loves Japanese culture
-- Otaku, Furry
+- Otaku, Mythical Kitsune
 
 ### Main occupation
 - Building and programming of IoT Devices, using:
