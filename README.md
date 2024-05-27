@@ -2,16 +2,20 @@
 
 ## About me
 - I live in Budapest / Hungary
-- My full name is Vilmos Bendegúz Kis (call me Vilmos or Kitsune)
+- My full name is Kis Vilmos Bendegúz (call me Vilmos or Kitsune)
 - I'm currently an IT student at Wesselényi Miklós Műszaki Technikum
 - I love foxes
 
 ## What do I do?
 ### I love to work with a lot of things such as
 - Server configuration
+    - Nginx
+    - mdadm
+    - Docker
+    - virtualisation (VMs)
 - Networking
 - Programming
-- Smarthome systems
+- Smarthome systems (Home Assistant)
 - Internet of Things (IoT)
 - Web development
 - Electronics
@@ -22,7 +26,7 @@
 - Python
 - Kotlin (Android app development)
 - C++ (for IoT)
-- Docker
+- Docker (docker-compose)
 - Shell
 - JavaScript (for HTML)
 
@@ -33,6 +37,7 @@
 - Kubernetes
 - ProxMox
 - C# (Unity)
+- pfSense / OPNsense
 
 ## Current projects:
 1. Upgraded server [Current]
