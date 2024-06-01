@@ -7,12 +7,11 @@
 - I love foxes
 
 ## What do I do?
-### I love to work with a lot of things such as
 - Server configuration
     - Nginx
     - mdadm
     - Docker
-    - virtualisation (VMs)
+    - virtualization (VMs)
 - Networking
 - Programming
 - Smarthome systems (Home Assistant)
@@ -21,8 +20,7 @@
 - Electronics
 - 3D printing
 
-## What about scripting?
-### I can write scripts in
+## Scripting
 - Python
 - Kotlin (Android app development)
 - C++ (for IoT)
@@ -30,8 +28,7 @@
 - Shell
 - JavaScript (for HTML)
 
-## Learning new things:
-### In the future I would like to learn more about
+## In the future I would like to learn more about
 - Assembly
 - Machine Learning
 - Kubernetes
@@ -39,7 +36,7 @@
 - C# (Unity)
 - pfSense / OPNsense
 
-## Current projects:
-1. Upgraded server [Current]
+## Current projects
+1. Upgraded server
 2. Own website
 3. 8 bit computer from scratch
