@@ -1,17 +1,15 @@
-# Hi, I'm TheKitsuneDev, the lone kitsune who lives in the server room.
+# Hi, I'm TheKitsuneDev, just a lonely kitsune who lives in the server room.
 
 ## About me
 - I live in Budapest / Hungary
-- My full name is Kis Vilmos Bendegúz (call me Vilmos or Kitsune)
-- I'm currently an IT student at Wesselényi Miklós Műszaki Technikum
+- My full name is Kis Vilmos Bendegúz (call me Vilmos or Kitsune [Prefered] )
+- I'm currently an IT student at *Than Károly Technikum és Szakképző Iskola Wesselényi Miklós Telephelye
 - I love foxes
 
 ## What do I do?
 - Server configuration
-    - Nginx
-    - mdadm
-    - Docker
-    - virtualization (VMs)
+    - Linux (Arch, Debian & Cent OS based distros)
+    - Virtualisation
 - Networking
 - Programming
 - Smarthome systems (Home Assistant)
@@ -19,6 +17,7 @@
 - Web development
 - Electronics
 - 3D printing
+- Computer repair
 
 ## Scripting
 - Python
@@ -28,15 +27,8 @@
 - Shell
 - JavaScript (for HTML)
 
-## In the future I would like to learn more about
-- Assembly
-- Machine Learning
-- Kubernetes
-- ProxMox
+## Future plans
+- Assembly (probably for the 6502)
 - C# (Unity)
-- pfSense / OPNsense
-
-## Current projects
-1. Upgraded server
-2. Own website
-3. 8 bit computer from scratch
+- Robotics
+- Bit computer from scratch
